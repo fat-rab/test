@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>>https://yicbridge.yunjiacloud.com/home/yicbridge/app/ipa/logo_512.png</string>
+     <string>https://yicbridge.yunjiacloud.com/home/yicbridge/app/ipa/logo_512.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>>https://yicbridge.yunjiacloud.com/home/yicbridge/app/ipa/logo_57.png</string>
+     <string>https://yicbridge.yunjiacloud.com/home/yicbridge/app/ipa/logo_57.png</string>
     </dict>
    </array>
    <key>metadata</key>
@@ -38,7 +38,7 @@
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
     <!-- 盐城包名 com.yancheng.wisdomcourt  -->
-    <string>com.yancheng.wisdomcourt</string>
+    <string>com.yunjiacloud.wisdomcourt</string>
     <!-- <string>com.yunjiacloud.wisdomcourt</string> -->
     <key>bundle-version</key>
     <!-- 版本号 -->
